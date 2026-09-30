@@ -1,4 +1,4 @@
-#### `$ whoami`
+### `$ whoami`
 
 #### An aspiring full-stack developer and, unsurprisingly, a Linux enthusiast
 
