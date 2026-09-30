@@ -6,7 +6,7 @@ Over the past few years, I've expanded my programming knowledge through web deve
 
 Currently, I am looking for an apprenticeship in software development to build on my practical experience and continued self-study in a professional environment.
 
-I write: `.html`, `.css`, `.js`, `.ts`, `.tsx`, `.go`, `.sh`, `.py`, `.php`
+I write: `.html`, `.css`, `.scss`, `.js`, `.ts`, `.tsx`, `.go`, `.sh`, `.py`, `.php`
 
 ---
 
