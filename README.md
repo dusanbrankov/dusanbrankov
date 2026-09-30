@@ -1,6 +1,6 @@
 ### `$ whoami`
 
-#### An aspiring full-stack web developer and, unsurprisingly, a Linux enthusiast
+#### An aspiring full-stack developer and, unsurprisingly, a Linux enthusiast
 
 Over the past few years, I've expanded my programming knowledge through web development projects, open-source contributions, and small command-line tools.
 
