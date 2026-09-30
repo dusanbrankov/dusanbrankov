@@ -1,29 +1,28 @@
-## Dušan Brankov
+### `$ whoami`
 
-I'm an aspiring software developer based in Germany, focused on full-stack web development and a Linux enthusiast.
+#### An aspiring full-stack web developer and, unsurprisingly, a Linux enthusiast
 
-Over the past few years, I've been developing my programming skills through personal projects, open-source contributions, and hands-on work on a private production e-commerce platform.
+Over the past few years, I've expanded my programming knowledge through web development projects, open-source contributions, and small command-line tools.
 
-I'm currently looking for an apprenticeship in software development to turn my practical experience and continued self-study into a professional career.
+Currently, I am looking for an apprenticeship in software development to build on my practical experience and continued self-study in a professional environment.
 
-### Technologies
+I write: `.html`, `.css`, `.js`, `.ts`, `.tsx`, `.go`, `.sh`, `.py`, `.php`
 
-#### Languages
+---
 
-- TypeScript / JavaScript
-- Go
-- Python
-- Bash
+#### Open source contributions
 
-#### Web
+Occasionally, I contribute fixes to open-source projects when I encounter issues while using them.
 
-- React
-- Next.js
-- HTML
-- CSS
-- REST APIs
+[**Mozilla SSL Configuration Generator**](https://github.com/mozilla/ssl-config-generator)<br/>
+Fixed an escaping bug that caused invalid generated Go code.<br />
+[`mozilla/ssl-config-generator#326`](https://github.com/mozilla/ssl-config-generator/pull/326)
 
-#### Tools & Infrastructure
+[**MDN Web Docs**](https://github.com/mdn/content)<br/>
+Corrected wording in the [CSS `:not()`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:not) documentation.<br />
+[`mdn/content#41277`](https://github.com/mdn/content/pull/41277)
+
+<!-- #### Tools & Infrastructure
 
 - Git
 - Linux
@@ -44,7 +43,7 @@ I occasionally contribute fixes to open-source projects when I come across issue
 
 - corrected wording in the [CSS `:not()`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:not) documentation<br />
 [`mdn/content#41277`](https://github.com/mdn/content/pull/41277)
-
+-->
 
 <!--
 **dusanbrankov/dusanbrankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
